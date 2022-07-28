@@ -5,5 +5,7 @@ Some general house keeping
  - Write meaningful commit messages on branchs and squash rebase into `main` describing the main deliverables for that branch being merged (inc PRs)
  - Embrace GitHub flow and Actions for CI/CD where possible
 
+If you require a GitHub Repo please submit a [Service Request](https://yondrgroup.freshservice.com/catalog/request_items/173) on YondrHelp
+
 If you require any assistance please contact **Martyn Norman - Global Head of Architecture & Development** 
 or raise a support ticket in [YondrHelp](https://helpdesk.yondrhelp.com/a/dashboard/default)
